@@ -108,32 +108,6 @@ plt.show()
 
 
 
-    
-
-  
-
-
-
-
-
-
-"""
-K = np.diag([-2]*n,0)
-
-for i in range(1,2):
-    K += np.diag([1]*(n-i),i)
-    K += np.diag([1]*(n-i),-i)
-"""
-
-
-
-
-
-
-
-
-
-
 
 
 
